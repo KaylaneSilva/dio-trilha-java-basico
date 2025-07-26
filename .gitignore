@@ -1,0 +1,43 @@
+# Compiled class files
+*.class
+
+# Jar and War files
+*.jar
+*.war
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+temp/
+
+# Maven build directory
+target/
+
+# Gradle build directory
+build/
+.gradle/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# VS Code files
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+application.properties.example # if sensitive info is in application.properties
+application.yml.example # if sensitive info is in application.yml
